@@ -1,0 +1,30 @@
+JUEGO:
+
+Logra la mayor puntuaci�n comiendo hojas y manzanas, tienes 3 oportunidades.
+
+
+MOVIMIENTOS:
+
+Flecha arriba para mover a la parte superior a la serpiente
+Flecha abajo para mover a la parte inferior a la serpiente
+Flecha izquierda la mover a la parte lateral izquierda a la serpiente
+Flecha derecha para mover a la parte lateral derecha a la serpiente
+
+
+RESTRICCIONES:
+
+Cuando la serpiente se mueve en una direccion, no puede mover a la direcci�n contraria directamente.
+
+
+PUNTUACIONES:
+
+Las hojas acumulan 25 puntos, entre mas hojas comas, mayor sera la puntuaci�n.
+Las manzanas que aparecen cada que comio 10 hojas acumulan el doble correspondiente a la hoja.
+
+
+EXTRAS:
+
+La serpiente cuenta martillos, hachas y escudos para protegerse de amenazas de bomba, y atravezar bosques y paredes.
+Al iniciar el juego se le asignan 2 unidades de cada herramienta.
+
+cada unidad de herramienta elimina una unidad de obstaculo, si no cuenta con herramientas y se encuentra un obstaculo, !PIERDE!
